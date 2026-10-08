@@ -1,0 +1,7 @@
+Metric,SVM
+Accuracy,92.16
+Precision,96.97
+Recall,91.43
+F1-score,94.12
+ROC-AUC,96.61
+PR-AUC,98.68
